@@ -1,34 +1,37 @@
 # Hi 👋, I'm Isreal Morawo
 
-I am passionate about numerical modeling and the simulation of liquid crystals dynamics. Currently, I am pursuing my PhD in Mechanical Engineering with a focus on Complex fluid at UBC Vancouver.
-
-🔭 I’m currently working on numerical modeling and simulation of liquid crystals dynamics.
-
-🌱 I’m currently learning advanced computational techniques and simulations.
-
-👯 I’m looking to collaborate on research involving numerical methods, simulations, and computational mechanics of soft matters.
-
-👨‍💻 All of my projects are available at [https://github.com/yourusername](https://github.com/DevCalculus).
-
-💬 Ask me about anything related to soft matter mechanics and numerical simulations. I love discussing these topics and I will be happy to help out.
-
-📫 How to reach me: email me or connect on LinkedIn.
-
-📄 Know about my experiences: [Link to your CV/experience]
-
-⚡ Fun fact: I enjoy studying, working on new technologies, and learning about innovative techniques in mechanical engineering and complex fluids.
+I am a PhD candidate in Mechanical Engineering at UBC Vancouver, with a focus on numerical modeling and simulation of complex fluids, particularly liquid crystals dynamics. My work bridges the fields of computational mechanics, soft matter physics, and applied mathematics.
 
 ---
 
-### Connect with me:
-- LinkedIn: [https://www.linkedin.com/in/isreal-morawo-masc-410779184/](#)
-- Email: [your.email@example.com](mailto:moore172@student.ubc.ca)
+### 🌟 About Me
+- 🔭 **Current Research**: Developing advanced numerical models for the simulation of liquid crystals dynamics, exploring their applications in various technological and scientific domains.
+- 🌱 **Skills Development**: Expanding expertise in advanced computational techniques, simulations, and the mechanics of soft matter.
+- 👯 **Collaborative Goals**: Eager to collaborate on projects involving numerical methods, computational fluid dynamics, and mechanics of soft materials.
+
+💬 **Open to Discussions**: I am passionate about soft matter mechanics and numerical simulations. Feel free to reach out if you’re interested in discussing ideas or need assistance with related topics.
 
 ---
 
-### Languages and Tools:
-- Python
-- MATLAB
-- C++
-- Linux
-  
+### 📫 Let's Connect
+- **LinkedIn**: [Isreal Morawo](https://www.linkedin.com/in/isreal-morawo-masc-410779184/)
+- **GitHub**: [DevCalculus](https://github.com/DevCalculus)
+- **Email**: [moore172@student.ubc.ca](mailto:moore172@student.ubc.ca)
+
+---
+
+### 📄 My Work and Experience
+- Visit my GitHub profile for ongoing and completed projects: [https://github.com/DevCalculus](https://github.com/DevCalculus).
+- Learn more about my background and professional experiences: [Link to CV or Portfolio] (optional).
+
+---
+
+### ⚡ Fun Fact
+When I’m not immersed in research, I enjoy exploring new technologies, delving into innovative techniques in mechanical engineering, and enhancing my understanding of complex fluid mechanics.
+
+---
+
+### 🛠️ Technical Skills
+- **Programming**: Python, MATLAB, C++
+- **Tools & Frameworks**: Linux, Docker, TensorFlow, PyTorch
+- **Specializations**: Numerical methods, Computational mechanics, Soft matter simulations
