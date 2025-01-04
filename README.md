@@ -1,11 +1,11 @@
 # Hi 👋, I'm Isreal Morawo
 
-I am a PhD candidate in Mechanical Engineering at UBC Vancouver, with a focus on numerical modeling and simulation of complex fluids, particularly liquid crystals dynamics. My work bridges the fields of computational mechanics, soft matter physics, and applied mathematics.
+I am a PhD student in Mechanical Engineering at UBC Vancouver, with a focus on numerical modeling and simulation of complex fluids, particularly Liquid crystals dynamics. My work bridges the fields of computational/continuum mechanics, soft matter physics, and applied mathematics.
 
 ---
 
 ### 🌟 About Me
-- 🔭 **Current Research**: Developing advanced numerical models for the simulation of liquid crystals dynamics, exploring their applications in various technological and scientific domains.
+- 🔭 **Current Research**: Investigating topological defects in nematic and cholesteric LCs.
 - 🌱 **Skills Development**: Expanding expertise in advanced computational techniques, simulations, and the mechanics of soft matter.
 - 👯 **Collaborative Goals**: Eager to collaborate on projects involving numerical methods, computational fluid dynamics, and mechanics of soft materials.
 
@@ -27,11 +27,10 @@ I am a PhD candidate in Mechanical Engineering at UBC Vancouver, with a focus on
 ---
 
 ### ⚡ Fun Fact
-When I’m not immersed in research, I enjoy exploring new technologies, delving into innovative techniques in mechanical engineering, and enhancing my understanding of complex fluid mechanics.
-
+Outside of my research pursuits, I have a keen interest in fashion, appreciating its blend of creativity and expression.
 ---
 
 ### 🛠️ Technical Skills
 - **Programming**: Python, MATLAB, C++
-- **Tools & Frameworks**: Linux, Docker, TensorFlow, PyTorch
+- **Softwares**: COMSOL Multiphysics, Paraview, OpenFOAM
 - **Specializations**: Numerical methods, Computational mechanics, Soft matter simulations
