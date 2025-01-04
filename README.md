@@ -27,7 +27,7 @@ I am a PhD student in Mechanical Engineering at UBC Vancouver, with a focus on n
 ---
 
 ### ⚡ Fun Fact
-Outside of my research pursuits, I have a keen interest in fashion, appreciating its blend of creativity and expression.
+Outside of my research, I have a keen interest in fashion, appreciating its blend of creativity and expression.
 ---
 
 ### 🛠️ Technical Skills
