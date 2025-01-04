@@ -22,7 +22,7 @@ I am a PhD student in Mechanical Engineering at UBC Vancouver, with a focus on n
 
 ### 📄 My Work and Experience
 - Visit my GitHub profile for ongoing and completed projects: [https://github.com/DevCalculus](https://github.com/DevCalculus).
-- Learn more about my background and professional experiences: [Link to CV or Portfolio] (optional).
+- Learn more about my background and professional experiences: [Link to CV or Portfolio] (https://drive.google.com/drive/folders/1NoAQbdIRngEtyDhHCppU-tYS_PeJ88-Q).
 
 ---
 
